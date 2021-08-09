@@ -1,0 +1,18 @@
+textarea {
+    min-height: 200px;
+}
+
+.emailListElement {
+    padding: 5px 5px;
+    border: solid;
+    border-width: 1px;
+}
+
+.elementComponent {
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+
+.row {
+    margin: 0px 0px;
+}
